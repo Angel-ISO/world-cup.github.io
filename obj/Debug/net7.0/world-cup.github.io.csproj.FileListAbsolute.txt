@@ -1,0 +1,15 @@
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.csproj.AssemblyReference.cache
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.AssemblyInfoInputs.cache
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.AssemblyInfo.cs
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.csproj.CoreCompileInputs.cache
+/home/angelgabriel/Documentos/world-cup.github.io/bin/Debug/net7.0/world-cup.github.io
+/home/angelgabriel/Documentos/world-cup.github.io/bin/Debug/net7.0/world-cup.github.io.deps.json
+/home/angelgabriel/Documentos/world-cup.github.io/bin/Debug/net7.0/world-cup.github.io.runtimeconfig.json
+/home/angelgabriel/Documentos/world-cup.github.io/bin/Debug/net7.0/world-cup.github.io.dll
+/home/angelgabriel/Documentos/world-cup.github.io/bin/Debug/net7.0/world-cup.github.io.pdb
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.dll
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/refint/world-cup.github.io.dll
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.pdb
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/world-cup.github.io.genruntimeconfig.cache
+/home/angelgabriel/Documentos/world-cup.github.io/obj/Debug/net7.0/ref/world-cup.github.io.dll
